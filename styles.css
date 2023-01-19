@@ -154,3 +154,8 @@ body {
     background-color: var(--botao-azul-efeito);
     color: var(--cor-de-fundo);
 }
+.autor {
+    text-decoration: none;
+    color: var(--branco-principal);
+    margin: 100px;
+}
